@@ -1,5 +1,6 @@
 # CortovaTest
 Cortova Assessment Test
+Used Python 3.6 in the code. All the modules used are in-built. So no need to install any new ones.
 
 ## ExcelLoader.py
 
